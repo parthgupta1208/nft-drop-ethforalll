@@ -1,4 +1,4 @@
-import { nftDrop } from '../../utils/nftDrop'
+import { nftDrop } from '../../utils/ntfDrop'
 
 export default async function handler(req, res) {
     const claimed = await nftDrop.getAllClaimed()

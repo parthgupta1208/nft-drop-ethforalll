@@ -14,7 +14,7 @@ const MyApp = ({ Component, pageProps }) => {
         <ThirdwebProvider
             desiredChainId={ChainId.Goerli}
             chainRpc={{
-                [ChainId.Goerli]: 'https://arbitrum-goerli.infura.io/v3/d8b05f3741db48dc97fd8d66f58646b4',
+                [ChainId.Goerli]: 'https://goerli.infura.io/v3/5ba22ed479e04c26aff2da6cc7cc21f2',
             }}
         >
             <Component {...pageProps} />

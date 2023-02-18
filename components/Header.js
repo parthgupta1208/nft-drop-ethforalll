@@ -1,7 +1,7 @@
 import Logo from './Logo'
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
-import { MenuIcon } from '@heroicons/react/24/outline'
+import { MenuIcon } from '@heroicons/react/outline'
 import { classNames } from '../utils/classNames'
 
 
