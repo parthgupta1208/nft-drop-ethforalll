@@ -25,11 +25,16 @@ const Hero = ({ mintNFT, claimedSupply, totalSupply, inAllowlist, nftPrice, clai
     return (
         <main className={styles.wrapper}>
             <div className={styles.container}>
-                <h1 className={styles.heroTitle}>Bored Ape Yacht Club</h1>
+                <h1 className={styles.heroTitle}>The NFT Otaku Club</h1>
 
                 <p className={styles.heroParagraph}>
-                    The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community
-                    through roadmap activation. This project is not affiliated by the real Bored Ape Yacht Club. Before making a purchase, please do your own research and always invest money you can afford to lose.
+                Welcome to our homepage where we're excited to announce our upcoming NFT drop featuring exclusive anime artwork!
+
+Our NFT drop will showcase stunning digital art pieces featuring characters and scenes from popular anime series. Each NFT will be a unique and limited edition collectible that fans and collectors alike will love.
+
+Anime fans will appreciate the attention to detail and artistry in each piece, which will be available in a variety of styles and sizes. Whether you're a fan of action-packed series, romantic dramas, or fantasy adventures, our NFT drop will have something for everyone.
+
+Don't miss out on this opportunity to own a piece of anime history. Stay tuned for more information on our upcoming NFT drop and be sure to mark your calendar so you don't miss your chance to add these exclusive pieces to your collection.
                 </p>
 
                 <ul>
